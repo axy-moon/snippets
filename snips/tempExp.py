@@ -1,0 +1,2 @@
+def addLogs():
+	pass
